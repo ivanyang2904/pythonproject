@@ -3,4 +3,3 @@ streamlit
 Image
 altair
 pydeck
-matplotlib.pyplot
